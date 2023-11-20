@@ -26,7 +26,7 @@ My Portfolio is a React.js application that serves as an online portfolio to sho
 
 ## Features
 - About Us: An overview of website 
-- Feature: Featurng different kinds of products.
+- Feature: Featuring different kinds of products.
 - Testimonial: Showing the testimonials and review about the website.
 - Contact: A form to send me messages or inquiries.
 - Footer: Affiliations and social reach.
