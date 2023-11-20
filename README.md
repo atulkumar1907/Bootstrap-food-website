@@ -1,5 +1,5 @@
 # Bootstrap-food-website
-This is a Restraunt food website built using HTML, CSS, JavaScript and Bootstrap.
+This is a Restraunt food website built using HTML, CSS, JavaScript and Bootstrap.🍕🍔
 
 
 ## Some Images:
